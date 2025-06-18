@@ -14,22 +14,22 @@ stedi-step-trainer-project/
 │   └── step_trainer_trusted.py
 ├── screenshots/
 │   ├── landing/
-│   │   ├── accelerometer_landing.png
-│   │   ├── customer_landing.png
-│   │   ├── customer_landing_blank_shareWithResearchAsOfDate.png
-│   │   └── step_trainer_landing.png
 │   ├── trusted/
-│   │   ├── accelerometer_trusted.png
-│   │   ├── customer_trusted.png
-│   │   └── step_trainer_trusted.png
 │   └── curated/
-│       ├── customer_curated.png
-│       └── machine_learning_curated.png
 ├── sql/
-│   ├── accelerometer_landing.sql
-│   ├── customer_landing.sql
-│   └── step_trainer_landing.sql
+│   ├── landing/
+│   │   ├── accelerometer_landing.sql
+│   │   ├── customer_landing.sql
+│   │   └── step_trainer_landing.sql
+│   ├── trusted/
+│   │   ├── accelerometer_trusted.sql
+│   │   ├── customer_trusted.sql
+│   │   └── step_trainer_trusted.sql
+│   └── curated/
+│       ├── customer_curated.sql
+│       └── machine_learning_curated.sql
 └── README.md
+
 ```
 
 
