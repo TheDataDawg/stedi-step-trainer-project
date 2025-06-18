@@ -4,31 +4,7 @@ This project implements an AWS Glue lakehouse pipeline for STEDI's Human Balance
 
 ## 📂 Project Structure
 
-stedi-step-trainer-project/
-├── glue_jobs/
-│   ├── accelerometer_landing_to_trusted.py
-│   ├── customer_landing_to_trusted.py
-│   ├── customer_trusted_to_curated.py
-│   ├── machine_learning_curated.py
-│   └── step_trainer_trusted.py
-├── screenshots/
-│   ├── landing/
-│   │   ├── accelerometer_landing.png
-│   │   ├── customer_landing.png
-│   │   ├── customer_landing_blank_shareWithResearchAsOfDate.png
-│   │   └── step_trainer_landing.png
-│   ├── trusted/
-│   │   ├── accelerometer_trusted.png
-│   │   ├── customer_trusted.png
-│   │   └── step_trainer_trusted.png
-│   └── curated/
-│       ├── customer_curated.png
-│       └── machine_learning_curated.png
-├── sql/
-│   ├── accelerometer_landing.sql
-│   ├── customer_landing.sql
-│   └── step_trainer_landing.sql
-└── README.md
+<pre> ``` stedi-step-trainer-project/ ├── glue_jobs/ │ ├── accelerometer_landing_to_trusted.py │ ├── customer_landing_to_trusted.py │ ├── customer_trusted_to_curated.py │ ├── machine_learning_curated.py │ └── step_trainer_trusted.py ├── screenshots/ │ ├── landing/ │ │ ├── accelerometer_landing.png │ │ ├── customer_landing.png │ │ ├── customer_landing_blank_shareWithResearchAsOfDate.png │ │ └── step_trainer_landing.png │ ├── trusted/ │ │ ├── accelerometer_trusted.png │ │ ├── customer_trusted.png │ │ └── step_trainer_trusted.png │ └── curated/ │ ├── customer_curated.png │ └── machine_learning_curated.png ├── sql/ │ ├── accelerometer_landing.sql │ ├── customer_landing.sql │ └── step_trainer_landing.sql └── README.md ``` </pre>
 
 
 ## 🚀 Glue Jobs
